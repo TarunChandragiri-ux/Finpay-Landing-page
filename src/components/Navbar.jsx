@@ -12,7 +12,7 @@ function Navbar() {
   return (
     <>
       <nav className="sticky top-0 z-50 py-3 bg-[#E9F3F4] border border-b-gray-200">
-     <div className="container mx-auto px-16 text-sm ">
+     <div className="container mx-auto px-4 md:px-16 text-sm ">
           <div className="flex items-center justify-between ">
             <div className="flex items-center">
             <div className="flex items-center gap-2">
@@ -50,7 +50,7 @@ function Navbar() {
               <hr />
               <div className="  flex gap-6 p-8">
               <a href="#" className="py-2 px-6 border border-gray-500 rounded-lg">Login</a>
-              <a href="#" className="py-2 px-6 border rounded-lg bg-[#28AE9E]">SignUp</a>
+              <a href="#" className="py-2 px-6 border rounded-lg bg-[#28AE9E] text-white">SignUp</a>
             </div>
               </div>
           )}
