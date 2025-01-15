@@ -4,7 +4,7 @@ function FuturePayment() {
     return (
         <div className="bg-[#E9F3F4] bg-[linear-gradient(to_bottom,_#E9F3F4_50%,_white_50%)]">
             <div className="container mx-auto p-4 md:py-16 ">
-                <div className="xl:mx-28 border rounded-xl shadow-xl bg-white pt-20 px-4 lg:px-20">
+                <div className="xl:mx-28 border rounded-xl shadow-xl bg-white pt-4 lg:pt-20 px-4 lg:px-20">
                     <h1 className="text-[#2A8E9E] text-sm py-2 font-medium">FUTURE PAYMENT</h1>
                     <div className="flex flex-col xl:flex-row gap-4 lg:gap-20 ">
                         <p className="text-5xl text-[#012332] py-2 max-w-[550px] ">Experience the grows with your scale</p>
